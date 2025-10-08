@@ -9,7 +9,7 @@ else
   exit 1
 fi
 
-gem install brakeman-7.0.2.gem
+gem install brakeman-7.1.0.gem
 
 if [ $? -eq 0 ]
 then
